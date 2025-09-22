@@ -1,5 +1,5 @@
 ![JoemeisterXL GitHub stats](https://github-readme-stats.vercel.app/api?username=JoemeisterXL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoemeisterXL)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoemeisterXL&theme=dark)](https://git.io/streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoemeisterXL&layout=compact&theme=dark)
 <!--
 **JoemeisterXL/JoemeisterXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
