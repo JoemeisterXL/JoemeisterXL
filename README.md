@@ -1,3 +1,10 @@
+**Yoo!** 👋
+
+I'm **Kophax**, I love Programming and I also love sports like Handball.
+
+Mostly private Repositories because im still a noob so I want to learn it then I put some more Projects in here
+
+
 ****About Me****
 
 I'm a coder, currently working on long and hard projects in my spare time. My interests span across various programming languages and technologies. I love to learn new things
