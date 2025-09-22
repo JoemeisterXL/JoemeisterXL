@@ -4,7 +4,7 @@ I'm **Kophax**, I love Programming and I also love sports like Handball.
 
 Mostly private Repositories because im still a noob so I want to learn it then I put some more Projects in here
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ****About Me****
 
