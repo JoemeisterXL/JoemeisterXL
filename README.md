@@ -12,7 +12,6 @@ I'm a coder, currently working on long and hard projects in my spare time. My in
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=JoemeisterXL&theme=dark" alt="GitHub Streak" /></a>
 
 ![JoemeisterXL GitHub stats](https://github-readme-stats.vercel.app/api?username=JoemeisterXL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed)
 
